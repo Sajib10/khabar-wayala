@@ -1,5 +1,7 @@
-.BODY{
+.body{
     font-family: 'Noto Sans TC', sans-serif;
+    background-color:white;
+    
     
 }
 .starting-color{
@@ -98,6 +100,107 @@ h1{
     margin-bottom: 60px;
     color:dimgray;
 }
+
+.food-pragent{
+    display:flex;
+    
+    
+    
+    
+}
+.recipie-item{
+width: 100%;
+box-shadow:0px 0px 40px rgba(0,0,0,15);
+margin-left: 60px;
+border-radius: 15px;
+margin-right: 20px;
+margin-top: 50px;
+margin-bottom:30px ;
+
+
+}
+.mano-img1{
+    width: 500px;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30;
+    
+
+
+
+}
+.mano-img2{
+    width: 500px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30;
+
+}
+.mano-img3{
+    width: 500px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30;
+}
+.food-name{
+    text-align: left;
+    
+    
+    
+}
+.food-details{
+    width:400px;
+margin-left: 35px;
+
+}
+#man{
+    margin-left:35px ;
+    color:black ;
+}
+.middle-litter{
+width: 500px;
+text-align: center justify;
+margin-left: 750px;
+
+}
+.demaind{
+    display: flex;
+    margin-left: 350px;
+    margin-right: 200px;
+    box-shadow:0px 0px 40px gray ;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+.demaind1{
+    width: 500px;
+    
+}
+.demaind2{
+    width: 500px;
+}
+.demaind3{
+    width: 500px;
+    margin-right: 0px;
+}
+
+.famous{
+    margin-left: 200px;
+}
+.footer{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+    margin-bottom: 100px;
+
+}
+span{
+    color: brown;
+}
+
 
 
     
